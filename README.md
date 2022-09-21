@@ -1,3 +1,8 @@
+# This repository is deprecated
+
+This code is now located in our monorepo [here](https://github.com/reactioncommerce/reaction/tree/trunk/packages/api-plugin-translations)
+
+
 # api-plugin-translations
 
 [![npm (scoped)](https://img.shields.io/npm/v/@reactioncommerce/api-plugin-translations.svg)](https://www.npmjs.com/package/@reactioncommerce/api-plugin-translations)
